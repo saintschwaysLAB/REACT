@@ -5,8 +5,7 @@ function About() {
         About Me
       </h2>
       <p className="text-gray-700 dark:text-gray-300">
-        I'm learning React and loving it! This site was built as part of my
-        first React activity. I enjoy turning ideas into working websites.
+        A undergrad hoping to learn more about REACT!
       </p>
     </section>
   );
