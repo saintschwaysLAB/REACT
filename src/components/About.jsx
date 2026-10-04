@@ -5,7 +5,7 @@ function About() {
         About Me
       </h2>
       <p className="text-gray-700 dark:text-gray-300">
-        A undergrad hoping to learn more about REACT!
+        A undergraduate student hoping to learn more about REACT!
       </p>
     </section>
   );
