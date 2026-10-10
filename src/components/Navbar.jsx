@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur border-b border-gray-200 dark:bg-gray-900/80 dark:border-gray-700">
       <div className="max-w-3xl mx-auto px-6 py-3 flex justify-between items-center">
-        <span className="font-bold text-purple-700 dark:text-purple-300">
+        <span className="font-bold text-black-700 dark:text-purple-300">
           My Portfolio
         </span>
         <div className="flex gap-4 text-sm">

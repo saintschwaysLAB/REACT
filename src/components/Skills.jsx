@@ -10,7 +10,7 @@ function Skills() {
         {skills.map((s) => (
           <span
             key={s}
-            className="bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-100 px-4 py-2 rounded-full text-sm font-medium"
+            className="bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-100 px-4 py-2 rounded-full text-sm font-medium"
           >
             {s}
           </span>

@@ -4,7 +4,7 @@ function Contact() {
       <h2 className="text-3xl font-bold mb-4 text-slate-800 dark:text-blue-200">
         Contact
       </h2>
-      <p className="text-gray-700 dark:text-gray-300 mb-5">
+      <p className="text-black-700 dark:text-black-300 mb-5">
         Want to say hi? Drop me a message!
       </p>
       <form
@@ -28,7 +28,7 @@ function Contact() {
         />
         <button
           type="submit"
-          className="bg-purple-700 hover:bg-purple-800 text-white font-semibold py-3 rounded-md"
+          className="bg-white-700 hover:bg-blue-800 text-white font-semibold py-3 rounded-md"
         >
           Send
         </button>
